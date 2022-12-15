@@ -7,7 +7,6 @@ Hello, My name is Max Barron, and this is my UX portfolio. I am a computer scien
 
 ## UX Journal
 
-README.md 
-
+https://github.com/UsabilityEngineering/ux-portfolio-MaximillianBarron/blob/master/j01/README.md
 
 [Read about my experience with Bash](j01/)
