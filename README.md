@@ -10,7 +10,7 @@ Hello, My name is Max Barron, and this is my UX portfolio. I am a computer scien
 Journal Entry #1
 
 
-## My Big Tall Fan
+## jo2: My Big Tall Fan
 By Maximillian Barron - 12/15/22
 
 After getting an electric fan from a friend when moving to Chico, I was determined to use it constantly. My goal was to learn how to use every function of it, so when needed, I could make the most of it's purpose. 
